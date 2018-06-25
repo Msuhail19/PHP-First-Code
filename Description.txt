@@ -1,0 +1,2 @@
+Use PHP to Submit queries to a datbase using 2 text boxes and 2 dynamic drop down menus in which the options in the second are
+populated with results according to the value of the first. Also valdiates input.
